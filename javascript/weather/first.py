@@ -1,0 +1,1 @@
+a = int(input("ent er the number")
